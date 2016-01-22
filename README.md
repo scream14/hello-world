@@ -1,3 +1,2 @@
 # hello-world
-Repository from tutorial
-My name Serg and I finally started HW on Git. It's very important to me be a better every f***ing day! :)
+My name is Serhii and here is my code. It's very important to me be a better every f***ing day! :)
